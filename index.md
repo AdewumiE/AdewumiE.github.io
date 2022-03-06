@@ -1,7 +1,10 @@
-<!doctype html>
+<!DOCTYPE html>
+
 <html lang="eng">
+
 <head>
 <title>CV profile for Emmanuel Adewumi</title>
+
 </head>
 
 <body>
@@ -15,17 +18,19 @@
 	<hr style="width:90%;text-align:center;margin-center:0">
 	</center>
 	
-	<strong>CAREER OBJECTIVES</br>
+	<h2>CAREER OBJECTIVES
+</br>
 	<h4>To utilise my technical and management skills for achieving targets and developing the best performance in<br>
 any company I find myself. I want to implement my innovative ideas, technology savviness skills and creativity<br> for solving
-business challenges.</p><br>
-<hr/ style="width:90%;text-align:center;margin-center:0"/>
+business challenges.
+<br>
+<hr style="width:90%;text-align:center;margin-center:0">
 <strong>EDUCATIONAL DETAILS:</br>
 <ol>
   <li>Federal University of Petroleum Resources, Effurun.</strong> (2011 -2017)</li>
   <li>Federal Science and Technical College, Ilesa, Osun State. (2002 - 2009)</li>
 </ol>
-<hr/ style="width:90%;text-align:center;margin-center:0"/>
+<hr style="width:90%;text-align:center;margin-center:0">
 <br>
 <strong>WORK EXPERIENCE</br>
 <ul>
