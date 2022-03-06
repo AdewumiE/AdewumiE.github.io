@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="eng">
+<head>
+<title>CV profile for Emmanuel Adewumi</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/AdewumiE/AdewumiE.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+<img title="Emmanuel Adewumi" src="pp.jpg" align="left"><br>
+<center><h1> ADEWUMI EMMANUEL GBADEBO
+  
+  <h2>No 4, Bello Street, Ketu Ikosi, Lagos State State.<br>
+    +2348106080569, +2348113845745, | emmanuealadewumig@mail.com<br>
+	<a href="https://www.linkedin.com/in/emmanueladewumig">linkedin.com/in/emmanueladewumig</a><br>
+	<br>
+	<hr style="width:90%;text-align:center;margin-center:0">
+	</center>
+	
+	<strong>CAREER OBJECTIVES</br>
+	<h4>To utilise my technical and management skills for achieving targets and developing the best performance in<br>
+any company I find myself. I want to implement my innovative ideas, technology savviness skills and creativity<br> for solving
+business challenges.</p><br>
+<hr/ style="width:90%;text-align:center;margin-center:0"/>
+<strong>EDUCATIONAL DETAILS:</br>
+<ol>
+  <li>Federal University of Petroleum Resources, Effurun.</strong> (2011 -2017)</li>
+  <li>Federal Science and Technical College, Ilesa, Osun State. (2002 - 2009)</li>
+</ol>
+<hr/ style="width:90%;text-align:center;margin-center:0"/>
+<br>
+<strong>WORK EXPERIENCE</br>
+<ul>
+	<li>GMI Construction Services, Warri. (Oct 2005 - June 2006)</li>
+	<li>Ayomi Interbize International, Ilesa, Osun State. (July 2006 - May 2007)</li>
+</ul>
+<hr/ style="width:90%;text-align:center;margin-center:0"/>
+<page-break-after>
+<strong>SKILLS<br/>
+<ul>
+<li>Python</li>
+<li>Microsoft Excel (Advanced)</li>
+<li>Customer Relationship MAnagement</li>
+<li>Creative Writing</li>
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AdewumiE/AdewumiE.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
