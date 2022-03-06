@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<img title="Emmanuel Adewumi" src="pp.jpg" align="left"><br>
+<img title="Emmanuel Adewumi" src="20220125_184629.jpg" align="left"><br>
 <center><h1> ADEWUMI EMMANUEL GBADEBO
   
   <h2>No 4, Bello Street, Ketu Ikosi, Lagos State State.<br>
@@ -45,3 +45,4 @@ business challenges.</p><br>
 </body>
 
 </html>
+
