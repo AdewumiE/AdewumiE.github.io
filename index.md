@@ -3,7 +3,9 @@
 <html lang="eng">
 
 <head>
-<title>CV profile for Emmanuel Adewumi</title>
+<title>
+CV profile for Emmanuel Adewumi
+</title>
 
 </head>
 
@@ -17,8 +19,9 @@
 	<br>
 	<hr style="width:90%;text-align:center;margin-center:0">
 	</center>
-	
-	<h2>CAREER OBJECTIVES
+
+<h2>CAREER OBJECTIVES
+
 </br>
 	<h4>To utilise my technical and management skills for achieving targets and developing the best performance in<br>
 any company I find myself. I want to implement my innovative ideas, technology savviness skills and creativity<br> for solving
