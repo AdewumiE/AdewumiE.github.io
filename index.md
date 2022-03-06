@@ -9,6 +9,7 @@
 </head>
 
 <body>
+
 <img title="Emmanuel Adewumi" src="20220125_184629.jpg" align="left"><br>
 <center><h1> ADEWUMI EMMANUEL GBADEBO
   
@@ -41,7 +42,7 @@ business challenges.
 </ul>
 <hr/ style="width:90%;text-align:center;margin-center:0"/>
 <page-break-after>
-<strong>SKILLS<br/>
+<h3>SKILLS<br/>
 <ul>
 <li>Python</li>
 <li>Microsoft Excel (Advanced)</li>
