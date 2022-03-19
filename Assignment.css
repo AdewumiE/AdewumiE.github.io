@@ -1,0 +1,34 @@
+body {
+ font-family: arial, helvetica, san-serif; 
+ margin:30PX; 
+ border:solid; 
+ border-style:solid; 
+ padding:30px;
+}
+.page-head {
+  display:flex;
+  background-color:#ededed;
+  padding:20px;
+  border-radius:10px;
+  border:2px solid #d3d3d3;
+}
+.page-head img {
+  height:120px;
+}
+.page-head p, 
+.page-head h1{
+  padding-left: 40px; 
+  border:none;
+  text-align:center;
+}
+
+h2 {
+	padding-left: 20px;
+	margin-bottom:0px;
+	padding-bottom:13px;
+	text-align: left;
+}
+p {
+  padding-left: 22px;
+  margin-top:0px;
+}
